@@ -21,7 +21,7 @@ ms.locfileid: "82596180"
 
 | 资源提供程序命名空间 | Azure 服务 |
 | --------------------------- | ------------- |
-| Microsoft.AAD | [Azure Active Directory 域服务 |
+| Microsoft.AAD | Azure Active Directory 域服务 |
 | Microsoft.Advisor | [Azure 顾问](/advisor/) |
 | Microsoft.AlertsManagement | [Azure Monitor](../../azure-monitor/index.yml) |
 | Microsoft.AnalysisServices | [Azure Analysis Services](/analysis-services/) |
